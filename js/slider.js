@@ -1,23 +1,11 @@
 
-  $(".slider").slick({
-      dots: true,
-      infinite: true,
-      speed: 300,
-      slidesToShow: 1,
-      adaptiveHeight: true
+  // $(".slider").slick({
+  //     dots: true,
+  //     infinite: true,
+  //     speed: 300,
+  //     slidesToShow: 1,
+  //     adaptiveHeight: true
+  //
+  // });
 
-  });
-
-// https://code.jquery.com/jquery-1.11.0.min.js
-// https://code.jquery.com/jquery-migrate-1.2.1.min.js
-// https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.js
-//
-// $(document).ready(function(){
-//   $('.slider').slick({
-//     dots: true,
-//     infinite: true,
-//     speed: 300,
-//     slidesToShow: 1,
-//     adaptiveHeight: true
-//   });
-// });
+$('.slider').slick();
