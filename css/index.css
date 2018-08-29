@@ -9,7 +9,23 @@ body{
   font-family: Chancery;
 }
 .menu{
+
+}
+.menu-principal{
+  background-color: purple;
   margin-left;
+  font-display: swap;
+  /* padding-right: 0; */
+  font-family: Georgia, serif;
+
+  text-align: center;
+  color: yellow;
+  box-sizing: border-box;
+}
+.botao_meu{
+margin-right: auto;
+align: right;
+
 }
 .imagem{
   text-align: center;
@@ -18,6 +34,27 @@ body{
   float: left;
   margin: 0 10px 10px 0;
 }
+
+.icone-redes-sociais{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    background-color: purple;
+    /*text-indent: -99999px;*/
+    font-size: 0;
+}
+.menu-contato{
+  float: right;
+  width: 140px;
+  height: 140px;
+  display: inline-block;
+  background-color: purple;
+  /*text-indent: -99999px;*/
+  font-size: 0;
+
+}
+
+
 footer {
   background-color: #000;
   color: #F2FFFC;
