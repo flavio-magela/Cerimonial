@@ -12,23 +12,11 @@ body{
   font-family: Arial Black;
   display:   inline;
   position:relative;
-
-
 }
-/* li{
-  text-align:center;
-  color: yellow;
 
-} */
 .menu-principal{
   background-color: purple;
-  /* margin-left;
-  font-display: swap;
-  padding-right: 0;
-  font-family: Georgia, serif;
-  text-align: center;
-  color: yellow;
-  box-sizing: border-box; */
+
 }
 .botao_meu{
 margin-right: auto;
@@ -43,36 +31,42 @@ align: right;
   margin: 0 10px 10px 0;
 }
 .menu-contato{
-
   float: right;
 
   background-color: purple;
   font-size: 0;
 }
 .gem-contacts-item{
-  
-  float: right;
+  float:   right;
   color: white;
   font-family: monospace,sans-serif;
 }
 .icones-sociais{
-  margin: 0;
-  clear: right;
+    float: right;
+}
 
-}
-a{
-  font-size: 0px;
-}
 .facebook{
   background-image: url(../img/facebook.jpg);
-
+  background-color:purple
+  margin-right: 2px;
+  font-size: 0px;
+  max-width:35px;
+  max-height:35px;
+  width: auto;
+  height: auto;
 }
 .instagram{
   background-image: url(../img/instagram.jpg);
+  background: purple
+  margin-right: 2px;
+  font-size: 0px;
+  max-width:35px;
+  max-height:35px;
+  width: auto;
+  height: auto;
 }
 
-
-footer {
+/* footer {
   background-color: #000;
   color: #F2FFFC;
   bottom: 0;
@@ -81,4 +75,4 @@ footer {
   width: 98%;
   text-align: left;
 
-}
+} */
