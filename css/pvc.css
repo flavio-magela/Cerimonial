@@ -1,0 +1,28 @@
+body{
+  background-color: purple;
+}
+.container{
+  width: 90%;
+  height: 90%;
+}
+.titulo{
+  color: yellow;
+  font-style: italic;
+  text-align: center;
+  font-family: Chancery;
+}
+.contato{
+  color: white;
+  float: right;
+  font-size: 16px;
+}
+.menu{
+  background-color: purple;
+  float: right;
+}
+.menu-principal{
+  margin:15px;
+  display: flex;
+  margin: auto;
+  float: right;
+}
