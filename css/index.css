@@ -19,19 +19,21 @@ body{
 }
 .menu{
   background-color: purple;
+  float: right;
 }
-
 .menu-principal{
   margin:15px;
+  display: flex;
+  margin: auto;
   float: right;
-
 }
 .imagem{
-  text-align: center;
-  /* display: block; */
-  clear:bold;
-  float: left;
-  margin: 0 10px 10px 0;
+  display: flex;
+  margin: auto;
+  max-width:48%;
+  max-height:48%;
+  width: auto;
+  height: auto;
 }
 .menu-contato{
   float: right;
