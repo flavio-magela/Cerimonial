@@ -2,25 +2,28 @@
 body{
   background-color: purple;
 }
+.container{
+  width: 90%;
+  height: 90%;
+}
 .titulo{
   color: yellow;
   font-style: italic;
   text-align: center;
   font-family: Chancery;
 }
+.contato{
+  color: white;
+  float: right;
+  font-size: 16px;
+}
 .menu{
-  font-family: Arial Black;
-  display:   inline;
-  position:relative;
+  background-color: purple;
 }
 
 .menu-principal{
-  background-color: purple;
-
-}
-.botao_meu{
-margin-right: auto;
-align: right;
+  margin:15px;
+  float: right;
 
 }
 .imagem{
